@@ -3,11 +3,11 @@ owner: gradesta
 repo: gradesta-statuspage
 
 sites:
-  - name: gradesta.com
+  - name: Main site - gradesta.com
     url: https://www.gradesta.com
-  - name: goodnight.gradesta.com
+  - name: Goodnight gradesta - goodnight.gradesta.com
     url: https://goodnight.gradesta.com
-  - name: gradesta.org
+  - name: Gradesta open source project site - gradesta.org
     url: https://gradesta.org
     
 status-website:
