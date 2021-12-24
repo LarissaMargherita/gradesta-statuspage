@@ -22,7 +22,7 @@
     "url": "https://goodnight.gradesta.com",
     "icon": "https://favicons.githubusercontent.com/goodnight.gradesta.com",
     "slug": "goodnight-gradesta-goodnight-gradesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 599,
     "timeMonth": 640,
     "timeYear": 640,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-24": 0
+    }
   },
   {
     "name": "Gradesta open source project site - gradesta.org",
