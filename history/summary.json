@@ -4,10 +4,10 @@
     "url": "https://www.gradesta.com",
     "icon": "https://favicons.githubusercontent.com/www.gradesta.com",
     "slug": "main-site-gradesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
@@ -15,7 +15,9 @@
     "timeWeek": 615,
     "timeMonth": 634,
     "timeYear": 634,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-24": 1
+    }
   },
   {
     "name": "Goodnight gradesta - goodnight.gradesta.com",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/goodnight.gradesta.com",
     "slug": "goodnight-gradesta-goodnight-gradesta-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 640,
     "timeDay": 470,
     "timeWeek": 599,
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2021-12-24": 0
+      "2021-12-24": 19
     }
   },
   {
