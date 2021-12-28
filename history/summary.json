@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/www.gradesta.com",
     "slug": "main-site-gradesta-com",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 756,
-    "timeWeek": 707,
-    "timeMonth": 677,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "uptime": "96.87%",
+    "uptimeDay": "54.34%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
+    "time": 679,
+    "timeDay": 719,
+    "timeWeek": 740,
+    "timeMonth": 679,
+    "timeYear": 679,
+    "dailyMinutesDown": {
+      "2021-12-28": 45,
+      "2021-12-27": 612
+    }
   },
   {
     "name": "Goodnight gradesta - goodnight.gradesta.com",
@@ -28,11 +31,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 678,
-    "timeDay": 721,
-    "timeWeek": 695,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "time": 684,
+    "timeDay": 786,
+    "timeWeek": 734,
+    "timeMonth": 684,
+    "timeYear": 684,
     "dailyMinutesDown": {
       "2021-12-24": 29
     }
@@ -43,18 +46,19 @@
     "icon": "https://favicons.githubusercontent.com/gradesta.org",
     "slug": "gradesta-open-source-project-site-gradesta-org",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 228,
-    "timeWeek": 321,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "uptime": "95.71%",
+    "uptimeDay": "37.42%",
+    "uptimeWeek": "91.06%",
+    "uptimeMonth": "95.71%",
+    "uptimeYear": "95.71%",
+    "time": 338,
+    "timeDay": 474,
+    "timeWeek": 392,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2021-12-27": 0
+      "2021-12-28": 45,
+      "2021-12-27": 856
     }
   }
 ]
