@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gradesta.com.ico",
     "slug": "main-site-gradesta-com",
     "status": "up",
-    "uptime": "68.28%",
+    "uptime": "68.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "67.19%",
-    "time": 657,
-    "timeDay": 774,
-    "timeWeek": 709,
-    "timeMonth": 680,
-    "timeYear": 656,
+    "time": 658,
+    "timeDay": 921,
+    "timeWeek": 747,
+    "timeMonth": 694,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2022-11-19": 21,
       "2022-10-24": 28,
@@ -145,8 +145,7 @@
       "2021-12-31": 1440,
       "2021-12-30": 1440,
       "2021-12-29": 1440,
-      "2021-12-28": 1440,
-      "2021-12-27": 612
+      "2021-12-28": 1440
     }
   },
   {
@@ -155,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/goodnight.gradesta.com.ico",
     "slug": "goodnight-gradesta-goodnight-gradesta-com",
     "status": "down",
-    "uptime": "11.73%",
+    "uptime": "11.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.70%",
+    "uptimeYear": "8.42%",
     "time": 880,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 976,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2022-12-26": 61,
+      "2022-12-27": 60,
+      "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
@@ -517,14 +517,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 404,
-    "timeDay": 423,
-    "timeWeek": 558,
-    "timeMonth": 416,
-    "timeYear": 407,
+    "timeDay": 472,
+    "timeWeek": 554,
+    "timeMonth": 419,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2022-09-15": 16,
-      "2021-12-28": 697,
-      "2021-12-27": 856
+      "2021-12-28": 697
     }
   }
 ]
